@@ -1,0 +1,26 @@
+
+.backboard {
+    background: black;
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    padding: 25px;
+    display: inline-block;
+    margin-right: 4px;
+    box-sizing: border-box;
+}
+
+.switch {
+    border: 1px solid black;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+}
+
+.inactive {
+    background: red;
+}
+
+.active {
+    background: green;
+}
